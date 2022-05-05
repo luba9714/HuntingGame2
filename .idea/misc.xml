@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/app_icon.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable-v24/harry_potter.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable-v24/ic_game.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable-v24/ic_game1.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable-v24/ic_hp.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_harry_potter.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/ic_transparent.xml" value="0.1485" />
+        <entry key="app/src/main/res/layout/activity_StartGame.xml" value="0.22711842854817707" />
+        <entry key="app/src/main/res/layout/activity_buttons.xml" value="0.14537037037037037" />
+        <entry key="app/src/main/res/layout/activity_endgame.xml" value="0.2024953206380208" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27015431722005206" />
+        <entry key="app/src/main/res/layout/activity_sensors.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.2631540934244792" />
+        <entry key="app/src/main/res/layout/fragment_map.xml" value="0.14537037037037037" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1485" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1485" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_game.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
